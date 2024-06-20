@@ -53,11 +53,14 @@ app
 #### Front End (Expo React Native)
 1. Clone the repository:
     ```sh
-    git clone https://github.com/code-cooker-tech/budget_management.git
+    https://github.com/code-cooker-tech/Budget_management.git
     ```
 2. Navigate to the front-end directory:
     ```sh
-    cd budget-management-system/frontend
+    cd Budget_management
+    ```
+    ```sh
+    cd my-app
     ```
 3. Install dependencies:
     ```sh
@@ -65,8 +68,16 @@ app
     ```
 4. Start the Expo server:
     ```sh
-    expo start
+    npx expo start
     ```
+5.email and password for login:
+```sh
+temesgengonfa@gmail.com
+```
+```sh
+222222
+```
+
 
 #### Back End (Supabase)
 1. Set up a new project on Supabase.
