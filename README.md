@@ -107,7 +107,7 @@ Users      (id, created_at, email, uuid)
     - Analyze financial data with built-in tools.`
       
 # screen
-
+![splash screen](https://github.com/code-cooker-tech/Budget_management/assets/173291463/e7bdb287-90e7-4f11-884f-df6f93e16e60)
 ##Temesgen Gonfa 2024 
   
   
