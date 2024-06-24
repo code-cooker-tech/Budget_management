@@ -128,6 +128,12 @@ Users      (id, created_at, email, uuid)
 ![set budget 2](https://github.com/code-cooker-tech/Budget_management/assets/173291463/443785dc-8596-44ad-bace-d436c9f0ad6d)
 
 
+# set income screen
+
+![set income 1](https://github.com/code-cooker-tech/Budget_management/assets/173291463/9433d1cc-0e22-4690-a8ad-fb056cdd7df3)
+
+
+
 
 ##Temesgen Gonfa 2024 
   
