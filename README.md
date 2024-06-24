@@ -149,6 +149,33 @@ Users      (id, created_at, email, uuid)
 
 
 
+# Drower Navigation
+
+![drow navigation](https://github.com/code-cooker-tech/Budget_management/assets/173291463/e2d84a4f-8158-4ece-bb91-ec47a37d0076)
+
+# closed Budget Screen
+
+![closed budget](https://github.com/code-cooker-tech/Budget_management/assets/173291463/2d7567f6-5132-4eb0-86ab-a8887cd8cdc6)
+
+
+# Income Screen
+
+![income](https://github.com/code-cooker-tech/Budget_management/assets/173291463/3fa31221-2443-4df2-a738-b0d1a6cfeacb)
+
+
+# Setting Screen
+
+![setting](https://github.com/code-cooker-tech/Budget_management/assets/173291463/d69f6211-f3e4-4b84-9264-6ad0482c7aa3)
+
+
+
+
+
+
+
+
+
+
 
 
 
