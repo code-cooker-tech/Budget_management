@@ -106,8 +106,12 @@ Users      (id, created_at, email, uuid)
     - Generate financial reports.
     - Analyze financial data with built-in tools.`
       
-# screen
+# splash screen
 ![splash screen](https://github.com/code-cooker-tech/Budget_management/assets/173291463/e7bdb287-90e7-4f11-884f-df6f93e16e60)
+
+# Welcome screen
+![welcome](https://github.com/code-cooker-tech/Budget_management/assets/173291463/fa52ee89-4901-4bbd-8b4f-4751a78dac23)
+
 ##Temesgen Gonfa 2024 
   
   
