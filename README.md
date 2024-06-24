@@ -140,7 +140,11 @@ Users      (id, created_at, email, uuid)
 # My budget screen
 
 ![my budget](https://github.com/code-cooker-tech/Budget_management/assets/173291463/0a3d7318-46ea-4d3a-98c6-a1cf0f4b0376)
+
+
 ![my budget detail](https://github.com/code-cooker-tech/Budget_management/assets/173291463/3b422835-28ee-4b2a-a901-27b604140d22)
+
+
 ![expense modal](https://github.com/code-cooker-tech/Budget_management/assets/173291463/2854c2a0-7648-43c7-b4a3-6f8da96fa0df)
 
 
