@@ -112,6 +112,10 @@ Users      (id, created_at, email, uuid)
 # Welcome screen
 ![welcome](https://github.com/code-cooker-tech/Budget_management/assets/173291463/fa52ee89-4901-4bbd-8b4f-4751a78dac23)
 
+#My Account screen 
+![my account 1](https://github.com/code-cooker-tech/Budget_management/assets/173291463/5c0ca133-57e3-411f-a319-948aebfbcdfa)
+
+
 ##Temesgen Gonfa 2024 
   
   
