@@ -132,6 +132,8 @@ Users      (id, created_at, email, uuid)
 
 ![set income 1](https://github.com/code-cooker-tech/Budget_management/assets/173291463/9433d1cc-0e22-4690-a8ad-fb056cdd7df3)
 
+
+
 ![set income 2](https://github.com/code-cooker-tech/Budget_management/assets/173291463/b061cdc2-8dcd-4a1c-95e5-17da170887f6)
 
 
